@@ -34,9 +34,6 @@ Professor, desenvolvedor, entusiasta da ciência de dados e inteligência artifi
 ![Stats](https://github.com/sriharikapu/sriharikapu/blob/master/stats-w.png?raw=true)  
 -->
 <div class="container">
-    <img src="http://jsambarreto.com/badges/BadgeDataEnginner.png" width="100" height="100" />
-</div>
-<div class="container">
     <img src="http://jsambarreto.com/badges/ML.png" width="100" height="100" />
 </div>
 <div class="container">
@@ -60,6 +57,12 @@ Professor, desenvolvedor, entusiasta da ciência de dados e inteligência artifi
 <br/>
 <br/>
 
+<style>
+div.container {
+	width: 150px;
+	display: inline-block;
+}
+</style>
 > A inteligência artificial só será um problema se não reconhecermos o valor do ser humano.
 > -- Raidalva de Castro
 
