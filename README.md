@@ -1,7 +1,6 @@
 ### Hi there 👋 , I'm [Jorge Bareto](https://www.github.com/jsambarreto) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=jsambarreto" alt="visitor badge"/></p>
 
 <!--
-**sriharikapu/sriharikapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,9 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
--->
 ![Jorge Barreto](https://avatars.githubusercontent.com/u/21265856?s=400&u=013576496038cd245c81fef003a20b36d68e1abf&v=4)
+-->
 Professor, desenvolvedor, entusiasta da ciência de dados e inteligência artificial, sempre aprendendo para ensinar e melhorar nosso mundo!
 <br/>
 
