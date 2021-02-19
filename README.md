@@ -36,6 +36,24 @@ Professor, desenvolvedor, entusiasta da ciência de dados e inteligência artifi
 <div class="container">
     <img src="http://jsambarreto.com/badges/ML.png" width="100" height="100" />
 </div>
+<div class="container">
+    <img src="http://jsambarreto.com/badges/Data_Engineering.png" width="100" height="100" />
+</div>
+<div class="container">
+    <img src="http://jsambarreto.com/badges/Data_Science.png" width="100" height="100" />
+</div>
+<div class="container">
+    <img src="http://jsambarreto.com/badges/GCE_Badges_01.png" width="100" height="100" />
+</div>
+<div class="container">
+    <img src="http://jsambarreto.com/badges/GCP_Essentials.png" width="100" height="100" />
+</div>
+<div class="container">
+    <img src="http://jsambarreto.com/badges/Machine_Learning.png" width="100" height="100" />
+</div>
+<div class="container">
+    <img src="http://jsambarreto.com/badges/Solutions_Data_and_Machine_Learning.png" width="100" height="100" />
+</div>
 <br/>
 <br/>
 
