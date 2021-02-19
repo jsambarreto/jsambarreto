@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Jorge Barreto](https://github.com/sriharikapu/sriharikapu/blob/master/CO.png?raw=true)
+![Jorge Barreto](https://github.com/jsambarreto/jsambarreto/blob/master/CO.png?raw=true)
 -->
 Professor, desenvolvedor, entusiasta da ciência de dados e inteligência artificial, sempre aprendendo para ensinar e melhorar nosso mundo!
 <br/>
@@ -23,7 +23,7 @@ Professor, desenvolvedor, entusiasta da ciência de dados e inteligência artifi
 [![Linkedin Badge](https://img.shields.io/badge/-jsambarreto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-barreto-b5157917/)](https://www.linkedin.com/in/jorge-barreto-b5157917/)
 [![Instagram Badge](https://img.shields.io/badge/-jsambarreto-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jsambarreto/)](https://www.instagram.com/jsambarreto/)
 [![ORCID Badge](https://img.shields.io/badge/-jsambarreto-yellow?style=flat-square&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0002-2119-8111)](https://orcid.org/0000-0002-2119-8111)
-[![Facebook Badge](https://img.shields.io/badge/-jsambarreto-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/officialsriharikapu)](https://www.facebook.com/officialsriharikapu)
+[![Facebook Badge](https://img.shields.io/badge/-jsambarreto-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/jsambarreto)](https://www.facebook.com/jsambarreto)
 <!--[![Medium Badge](https://img.shields.io/badge/-sriharikapu-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@sriharikapu)](https://medium.com/@sriharikapu)-->
 [![Telegram Badge](https://img.shields.io/badge/-jsambarreto-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@jsambarreto)](https://telegram.org/@jsambarreto)
 <!--[![Sourcerer Badge](https://img.shields.io/badge/-sriharikapu-orange?style=flat-square&logo=Scribd&logoColor=white&link=https://sourcerer.io/sriharikapu)](https://sourcerer.io/sriharikapu)
