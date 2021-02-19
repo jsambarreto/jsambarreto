@@ -33,7 +33,9 @@ Professor, desenvolvedor, entusiasta da ciência de dados e inteligência artifi
  ![Stats](https://github.com/sriharikapu/sriharikapu/blob/master/stats.png?raw=true) 
 ![Stats](https://github.com/sriharikapu/sriharikapu/blob/master/stats-w.png?raw=true)  
 -->
-
+<div class="container">
+    <img src="http://jsambarreto.com/badges/ML.png" width="320" height="205" />
+</div>
 <br/>
 <br/>
 
