@@ -53,7 +53,7 @@ Professor, desenvolvedor, entusiasta da ciência de dados e inteligência artifi
 
 [![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/jsambarreto/jsambarreto/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook)
 <br/>
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/jsambarreto@gmail.com)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](mailto:jsambarreto@gmail.com)
 
 </div>
 
