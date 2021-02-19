@@ -37,8 +37,8 @@ Professor, desenvolvedor, entusiasta da ciência de dados e inteligência artifi
 <br/>
 <br/>
 
-> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
-> -- Steve Jobs
+> A inteligência artificial só será um problema se não reconhecermos o valor do ser humano.
+> -- Raidalva de Castro
 
 
 <div align="right">
