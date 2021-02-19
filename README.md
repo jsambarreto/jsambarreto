@@ -1,194 +1,65 @@
+### Hi there 👋 , I'm [Jorge Bareto](https://www.github.com/jsambarreto) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=jsambarreto" alt="visitor badge"/></p>
+
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email, project_title, project_description
+**sriharikapu/sriharikapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+![Jorge Barreto](https://github.com/sriharikapu/sriharikapu/blob/master/CO.png?raw=true)
+-->
+Professor, desenvolvedor, entusiasta da ciência de dados e inteligência artificial, sempre aprendendo para ensinar e melhorar nosso mundo!
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/jsambarreto?style=social)](https://www.github.com/jsambarreto)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jsambarreto?style=social)](https://www.twitter.com/jsambarreto)
+[![Linkedin Badge](https://img.shields.io/badge/-jsambarreto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-barreto-b5157917/)](https://www.linkedin.com/in/jorge-barreto-b5157917/)
+[![Instagram Badge](https://img.shields.io/badge/-jsambarreto-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jsambarreto/)](https://www.instagram.com/jsambarreto/)
+[![ORCID Badge](https://img.shields.io/badge/-jsambarreto-yellow?style=flat-square&logo=ORCID&logoColor=white&link=https://orcid.org/0000-0002-2119-8111)](https://orcid.org/0000-0002-2119-8111)
+[![Facebook Badge](https://img.shields.io/badge/-jsambarreto-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/officialsriharikapu)](https://www.facebook.com/officialsriharikapu)
+<!--[![Medium Badge](https://img.shields.io/badge/-sriharikapu-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@sriharikapu)](https://medium.com/@sriharikapu)-->
+[![Telegram Badge](https://img.shields.io/badge/-jsambarreto-grey?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@jsambarreto)](https://telegram.org/@jsambarreto)
+<!--[![Sourcerer Badge](https://img.shields.io/badge/-sriharikapu-orange?style=flat-square&logo=Scribd&logoColor=white&link=https://sourcerer.io/sriharikapu)](https://sourcerer.io/sriharikapu)
+[![Website Badge](https://img.shields.io/badge/-sriharikapu-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://sriharikapu.com)](http://www.sriharikapu.com/)-->
+
+<!--
+# Fun Facts
+ ![Stats](https://github.com/sriharikapu/sriharikapu/blob/master/stats.png?raw=true) 
+![Stats](https://github.com/sriharikapu/sriharikapu/blob/master/stats-w.png?raw=true)  
 -->
 
+<br/>
+<br/>
+
+> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
+> -- Steve Jobs
 
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+<div align="right">
+<!-- 
+[![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/sriharikapu/sriharikapu/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook) 
+<a   href="https://github.com/sriharikapu/sriharikapu/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
+<strong> ___ 🖋 Write into my guest book</strong></a>
 -->
-[![Twitter][twitter-shield]][https://twitter.com/jsambarreto]
-[![Gmail][gmail-shield]][mailto:jsambarreto@gmail.com]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/jorge-barreto-b5157917/]
+<br/>
+<br/>  
 
+[![Write into my guest book](https://img.shields.io/badge/-___%20%F0%9F%96%8B%20Write%20into%20my%20guest%20book-red?style=flat-round)](https://github.com/sriharikapu/sriharikapu/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook)
+<br/>
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/sriharikapu163@gmail.com)
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+</div>
 
-  <h3 align="center">project_title</h3>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
-</p>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
-
-### Built With
-
-* []()
-* []()
-* []()
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Jorge Barreto - [@jsambarreto](https://twitter.com/jsambareto) - jsambarreto@gmail.com
-
-<!-- Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name) -->
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* [python]()
-* [dart]()
-* [flutter]()
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/jorge-barreto-b5157917/
+<!--
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sriharikapu)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=sriharikapu&show_icons=true&title_color=62BFAD&icon_color=79ff97&text_color=F7F8E8&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriharikapu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriharikapu&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+-->
