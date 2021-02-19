@@ -20,9 +20,9 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Twitter][contributors-shield]][contributors-url]
-[![Gmail][stars-shield]][stars-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Twitter][twitter-shield]][https://twitter.com/jsambarreto]
+[![Gmail][gmail-shield]][mailto:jsambarreto@gmail.com]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/jorge-barreto-b5157917/]
 
 
 <!-- PROJECT LOGO -->
