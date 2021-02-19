@@ -33,14 +33,16 @@ Professor, desenvolvedor, entusiasta da ciência de dados e inteligência artifi
  ![Stats](https://github.com/sriharikapu/sriharikapu/blob/master/stats.png?raw=true) 
 ![Stats](https://github.com/sriharikapu/sriharikapu/blob/master/stats-w.png?raw=true)  
 -->
-<div class="holder">
-    <img src="http://jsambarreto.com/badges/GCE_Badges_01.png" width="100" height="100" />
+<div class=figure>
+    <img class = scaled src="http://jsambarreto.com/badges/GCE_Badges_01.png" width="100" height="100">
+    <p>Google for Education nivel 1
+    <!--<img src="http://jsambarreto.com/badges/GCE_Badges_01.png" width="100" height="100" />
     <img src="http://jsambarreto.com/badges/ML.png" width="100" height="100" />
     <img src="http://jsambarreto.com/badges/Data_Engineering.png" width="100" height="100" />
     <img src="http://jsambarreto.com/badges/Data_Science.png" width="100" height="100" />
     <img src="http://jsambarreto.com/badges/GCP_Essentials.png" width="100" height="100" />
     <img src="http://jsambarreto.com/badges/Machine_Learning_API.png" width="100" height="100" />
-    <img src="http://jsambarreto.com/badges/Solutions_Data_and_Machine_Learning.png" width="100" height="100" />
+    <img src="http://jsambarreto.com/badges/Solutions_Data_and_Machine_Learning.png" width="100" height="100" />-->
 </div>
 
 <br/>
