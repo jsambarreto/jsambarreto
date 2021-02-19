@@ -57,7 +57,12 @@ Professor, desenvolvedor, entusiasta da ciência de dados e inteligência artifi
 <!--[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](mailto:jsambarreto@gmail.com)
 -->
 </div>
-
+.container img {
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
 <!--
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sriharikapu)](https://github.com/LordDashMe/github-contribution-stats/)
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=sriharikapu&show_icons=true&title_color=62BFAD&icon_color=79ff97&text_color=F7F8E8&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
