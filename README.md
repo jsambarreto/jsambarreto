@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 Professor, desenvolvedor, entusiasta da ciência de dados e inteligência artificial, sempre aprendendo para ensinar e melhorar nosso mundo!
 <br/>
+[![Jsambarreto's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsambarreto)](https://github.com/jsambarreto/github-readme-stats)
 
 [![GitHub followers](https://img.shields.io/github/followers/jsambarreto?style=social)](https://www.github.com/jsambarreto)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jsambarreto?style=social)](https://www.twitter.com/jsambarreto)
