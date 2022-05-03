@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 -->
 Professor, desenvolvedor, entusiasta da ciência de dados e inteligência artificial, sempre aprendendo para ensinar e melhorar nosso mundo!
 <br/>
-<div>
-[![Jsambarreto's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsambarreto)](https://github.com/jsambarreto/github-readme-stats)
-</div>
-<div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsambarreto)](https://github.com/jsambarreto/github-readme-stats)
-</div>
+
+<a href="https://github.com/jsambarreto/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jsambarreto" />
+</a>
+<a href="https://github.com/jsambarreto/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsambarreto" />
+</a>
 
 
 [![GitHub followers](https://img.shields.io/github/followers/jsambarreto?style=social)](https://www.github.com/jsambarreto)
