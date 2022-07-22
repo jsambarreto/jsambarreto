@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm [Jorge Bareto](https://www.github.com/jsambarreto) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=jsambarreto" alt="visitor badge"/></p>
+### Hi 👋 , I'm [Jorge Bareto](https://www.github.com/jsambarreto) <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=jsambarreto" alt="visitor badge"/></p>
 
 <!--
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Jorge Barreto](https://avatars.githubusercontent.com/u/21265856?s=400&u=013576496038cd245c81fef003a20b36d68e1abf&v=4)
 -->
-Professor, desenvolvedor, entusiasta da ciência de dados e inteligência artificial, sempre aprendendo para ensinar e melhorar nosso mundo!
+Cientista de dados, Professor, desenvolvedor, entusiasta da inteligência artificial, sempre aprendendo para ensinar e melhorar nosso mundo!
 <br/>
 
 <a href="https://github.com/jsambarreto/github-readme-stats">
