@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Jorge Barreto](https://avatars.githubusercontent.com/u/21265856?s=400&u=013576496038cd245c81fef003a20b36d68e1abf&v=4)
 -->
-Cientista de dados, Professor, desenvolvedor, entusiasta da inteligência artificial, sempre aprendendo para ensinar e melhorar nosso mundo!
+Analista de dados, Professor, desenvolvedor, entusiasta da inteligência artificial, sempre aprendendo para ensinar e melhorar nosso mundo!
 <br/>
 
 <a href="https://github.com/jsambarreto/github-readme-stats">
