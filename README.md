@@ -42,13 +42,13 @@ Cientista de dados, Professor, desenvolvedor, entusiasta da inteligência artifi
 ![Stats](https://github.com/sriharikapu/sriharikapu/blob/master/stats-w.png?raw=true)  
 -->
 <div class=figure>
-    <img src="http://jsambarreto.com/badges/GCE_Badges_01.png" width="90" height="90"/>
-    <img src="http://jsambarreto.com/badges/ML.png" width="90" height="90"/>
-    <img src="http://jsambarreto.com/badges/Data_Engineering.png" width="90" height="90"/>
-    <img src="http://jsambarreto.com/badges/Data_Science.png" width="90" height="90"/>
-    <img src="http://jsambarreto.com/badges/GCP_Essentials.png" width="90" height="90"/>
-    <img src="http://jsambarreto.com/badges/Machine_Learning_API.png" width="90" height="90"/>
-    <img src="http://jsambarreto.com/badges/Solutions_Data_and_Machine_Learning.png" width="90" height="90"/>
+    <img src="http://jsambarreto.com.br/badges/GCE_Badges_01.png" width="90" height="90"/>
+    <img src="http://jsambarreto.com.br/badges/ML.png" width="90" height="90"/>
+    <img src="http://jsambarreto.com.br/badges/Data_Engineering.png" width="90" height="90"/>
+    <img src="http://jsambarreto.com.br/badges/Data_Science.png" width="90" height="90"/>
+    <img src="http://jsambarreto.com.br/badges/GCP_Essentials.png" width="90" height="90"/>
+    <img src="http://jsambarreto.com.br/badges/Machine_Learning_API.png" width="90" height="90"/>
+    <img src="http://jsambarreto.com.br/badges/Solutions_Data_and_Machine_Learning.png" width="90" height="90"/>
 </div>
 
 <br/>
